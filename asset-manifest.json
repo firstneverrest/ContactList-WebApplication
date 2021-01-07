@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/contact.github.io/static/css/main.ce032804.chunk.css",
+    "main.js": "/contact.github.io/static/js/main.8d9aa5f2.chunk.js",
+    "main.js.map": "/contact.github.io/static/js/main.8d9aa5f2.chunk.js.map",
+    "runtime-main.js": "/contact.github.io/static/js/runtime-main.b99a4e16.js",
+    "runtime-main.js.map": "/contact.github.io/static/js/runtime-main.b99a4e16.js.map",
+    "static/js/2.1038cc46.chunk.js": "/contact.github.io/static/js/2.1038cc46.chunk.js",
+    "static/js/2.1038cc46.chunk.js.map": "/contact.github.io/static/js/2.1038cc46.chunk.js.map",
+    "index.html": "/contact.github.io/index.html",
+    "static/css/main.ce032804.chunk.css.map": "/contact.github.io/static/css/main.ce032804.chunk.css.map",
+    "static/js/2.1038cc46.chunk.js.LICENSE.txt": "/contact.github.io/static/js/2.1038cc46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99a4e16.js",
+    "static/js/2.1038cc46.chunk.js",
+    "static/css/main.ce032804.chunk.css",
+    "static/js/main.8d9aa5f2.chunk.js"
+  ]
+}
