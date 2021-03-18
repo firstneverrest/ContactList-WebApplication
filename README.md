@@ -3,7 +3,7 @@
 
 The contact list web application use for recording people's contact which automatically randoms profile image for who you record. This is my first React app and I believe that it's a good start.
 
-Demo: [ContactList-WebApplication](https://firstneverrest.github.io/ContactList-WebApplication/)
+**Demo:** [ContactList-WebApplication](https://firstneverrest.github.io/ContactList-WebApplication/)
 
 ### Technologies
 ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
